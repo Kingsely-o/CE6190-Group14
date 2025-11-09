@@ -1,0 +1,38 @@
+# Core deep learning and diffusion models
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.25.0
+transformers>=4.36.0
+accelerate>=0.25.0
+
+# Image processing and computer vision
+Pillow>=10.0.0
+opencv-python>=4.8.0
+scikit-image>=0.22.0
+
+# Metrics and evaluation
+pytorch-fid>=0.3.0
+lpips>=0.1.4
+scipy>=1.11.0
+numpy>=1.24.0
+
+# CLIP for text-image similarity
+open-clip-torch>=2.23.0
+ftfy>=6.1.1
+
+# Dataset loading
+datasets>=2.16.0
+pycocotools>=2.0.7
+
+# Visualization and plotting
+matplotlib>=3.8.0
+seaborn>=0.13.0
+pandas>=2.1.0
+
+# Utilities
+tqdm>=4.66.0
+requests>=2.31.0
+safetensors>=0.4.0
+
+# Note: xformers removed due to flash-attn version conflicts
+# The project works fine without it, just slightly slower

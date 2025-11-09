@@ -1,0 +1,112 @@
+# Custom Prompts for Stable Diffusion Comparison
+# 100 prompts organized into 5 categories (20 each)
+
+[CATEGORY: simple]
+a red apple
+a blue car
+a green tree
+a yellow banana
+a white cat
+a black dog
+a purple flower
+a orange sunset
+a brown chair
+a pink rose
+a silver spoon
+a golden coin
+a red bicycle
+a blue house
+a green leaf
+a yellow sun
+a white cloud
+a black hat
+a gray elephant
+a red tomato
+
+[CATEGORY: scenes]
+a sunny beach
+a cozy living room
+a busy city street
+a peaceful forest
+a snowy mountain
+a tropical island
+a modern kitchen
+a vintage bedroom
+a crowded market
+a quiet library
+a rainy parking lot
+a desert landscape
+a Japanese garden
+a medieval castle
+a futuristic cityscape
+a rustic barn
+a luxury hotel lobby
+a underwater coral reef
+a autumn park
+a spring meadow
+
+[CATEGORY: multi_object]
+a cat and dog playing
+a laptop and coffee on desk
+a book and glasses on table
+a phone and keys next to wallet
+a vase with flowers and candle
+a guitar and microphone on stage
+a bicycle and helmet by fence
+a ball and bat in grass
+a camera and tripod outdoors
+a pencil and notebook on desk
+a fork and knife beside plate
+a cup and saucer with spoon
+a chair and lamp in corner
+a TV and remote on stand
+a hat and scarf on hook
+a shoes and socks by door
+a apple and orange in bowl
+a computer and mouse on table
+a bread and butter on board
+a hammer and nails in toolbox
+
+[CATEGORY: detailed]
+a small fluffy white cat with blue eyes
+a vintage red sports car with chrome details
+a large oak tree with autumn colored leaves
+a ripe yellow banana with brown spots
+a majestic Bengal tiger with orange and black stripes
+a golden retriever puppy with floppy ears
+a delicate purple orchid in a white pot
+a dramatic orange and pink sunset over ocean
+an antique wooden rocking chair with cushions
+a blooming pink rose with morning dew drops
+an ornate silver Victorian spoon with engravings
+a shiny gold coin with eagle emblem
+a rusty old red bicycle with wicker basket
+a charming blue cottage with white shutters
+a vibrant green maple leaf with water droplets
+a bright yellow sun breaking through gray clouds
+a fluffy white cumulus cloud in blue sky
+a weathered black leather cowboy hat
+a large gray African elephant with tusks
+a fresh red tomato on the vine
+
+[CATEGORY: hard]
+a transparent glass bottle
+exactly three cats sitting in a row
+text saying HELLO in the clouds
+a mirror reflecting a sunset
+a completely black object in a white room
+a invisible person wearing clothes
+smoke forming the shape of a dragon
+a cube made of water
+stairs that lead to nowhere
+a door floating in empty space
+a clock showing impossible time
+a tree growing upside down
+a shadow without an object
+a painting of itself
+a rainbow at night
+fire and ice touching
+a transparent brick wall
+exactly five birds flying in V formation
+text saying WELCOME on a doormat
+a sphere that is also a cube
